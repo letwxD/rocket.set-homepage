@@ -1,6 +1,6 @@
 # Desafio avançado - Recriando layout
 
-Desafio final do módulo 2 FullStack da [RocketSeat](https://www.rocketseat.com.br).
+Desafio final do módulo 2 Explorer FullStack da [RocketSeat](https://www.rocketseat.com.br).
 
 ## Visão Geral
 
